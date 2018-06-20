@@ -10,8 +10,8 @@ var webpackConfig = merge(baseWebpackConfig, {
   devtool: '#source-map',
   output: {
     path: config.build.assetsRoot,
-    filename: 'vue-table-with-tree-grid.js',
-    library: 'vue-table-with-tree-grid',
+    filename: 'mds-table-with-tree-grid.js',
+    library: 'mds-table-with-tree-grid',
     libraryTarget: 'umd',
     umdNamedDefine: true
   },

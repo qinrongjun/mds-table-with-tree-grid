@@ -1,4 +1,4 @@
-# vue-table-with-tree-grid
+# mds-table-with-tree-grid
 
 > A table (with tree-grid) component for Vue.js 2.0. (Its style extends [@iView](https://github.com/iview/iview))
 
@@ -11,13 +11,13 @@
 Use npm:
 
 ```shell
-npm i vue-table-with-tree-grid -S
+npm i mds-table-with-tree-grid -S
 ```
 
 Or use yarn:
 
 ```shell
-yarn add vue-table-with-tree-grid
+yarn add mds-table-with-tree-grid
 ```
 
 ## Usage
