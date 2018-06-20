@@ -273,7 +273,7 @@
           this.computedHeight = clientHeight + 2;
 
           const maxHeight = parseInt(this.maxHeight, 10);
-          if (this.maxHeight !== 'auto' && this.computedHeight > maxHeight) {
+          if (this.maxHeight !== 'auto') {
             this.bodyHeight = `${maxHeight - 83}px`;
           }
           this.tableColumns = initialColumns(this, clientWidth);
