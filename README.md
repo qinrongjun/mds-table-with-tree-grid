@@ -24,7 +24,7 @@ yarn add vue-table-with-tree-grid
 
 ```javascript
 import Vue from 'vue'
-import ZkTable from 'vue-table-with-tree-grid'
+import ZkTable from 'mds-table-with-tree-grid'
 
 Vue.use(ZkTable)
 ```
@@ -33,7 +33,7 @@ Or
 
 ```javascript
 import Vue from 'vue'
-import ZkTable from 'vue-table-with-tree-grid'
+import ZkTable from 'mds-table-with-tree-grid'
 
 Vue.component(ZkTable.name, ZkTable)
 ```
